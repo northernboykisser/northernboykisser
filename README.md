@@ -1,2 +1,2 @@
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://raw.githubusercontent.com/northernboykisser/northernboykisser/refs/heads/main/lnkbtn.png)
